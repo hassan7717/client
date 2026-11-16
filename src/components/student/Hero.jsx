@@ -3,7 +3,7 @@ import SearchBar from './SearchBar'
 
 const Hero = () => {
   return (
-    <div className='flex flex-col items-center justify-center w-full md:pt-36 pt-20 px-7 md:px-0 space-y-7 text-center bg-gradient-to-b from-cyan-100/70'>
+    <div className='flex flex-col items-center justify-center w-full md:pt-20 pt-20 px-7 md:px-0 space-y-10 text-center bg-gradient-to-b from-gray-100'>
       
       <h1 className='md:text-home-heading-large text-home-heading-small relative font-bold text-gray-800 max-w-3xl mx-auto'>
         Empower your future with the courses designed to 
